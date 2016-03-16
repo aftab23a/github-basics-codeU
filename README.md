@@ -1,5 +1,7 @@
 # GitHub Basics
 
+_If the truth shall kill them, let them die. - Kant_
+
 ## Overview
 
 You might have worked with version control software in the past, or this might be your first rodeo. Either way, we're going to teach you enough about `git` to be dangerous.
